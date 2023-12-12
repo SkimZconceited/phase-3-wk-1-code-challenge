@@ -17,9 +17,9 @@ def convert_to_24_hrs(hh = 0, mm = 0, time = ''):
         print('enter valid time')
     pass
 
-# convert_to_24_hrs(1, 36, 'am')
-# convert_to_24_hrs(6, 36, 'am')
-# convert_to_24_hrs(12, 36, 'am')
+convert_to_24_hrs(1, 36, 'am')
+convert_to_24_hrs(6, 36, 'am')
+convert_to_24_hrs(12, 36, 'am')
 # convert_to_24_hrs(1, 36, 'pm')
 # convert_to_24_hrs(6, 36, 'pm')
 # convert_to_24_hrs(12, 36, 'pm')
